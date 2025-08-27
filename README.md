@@ -7,3 +7,4 @@ Os modulos de:
 
 - Já concluidos-
 
+![](https://github-readme-stats.vercel.app/api?username=Japuruna66&show_icons=true&theme=transparent)
